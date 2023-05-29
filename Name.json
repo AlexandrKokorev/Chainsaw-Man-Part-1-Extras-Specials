@@ -20,7 +20,7 @@
       "volume": "123",
       "last_updated": "1685372370",
       "groups": {
-        "Volume 2 Extras": [
+        "Volume Extras": [
           "https://drive.google.com/uc?export=view&id=1T4nkG7wVUj9uSYkCGU8eU3kOyRkCbewe",
           "https://drive.google.com/uc?export=view&id=1GUe8y2_UbbB3gb1KOQRSBm3SGwzRG498"
         ]
@@ -37,6 +37,47 @@
           "https://drive.google.com/uc?export=view&id=1EDxUPsZ_JF1q8sThxstB-BYKOjzFGHfD",
           "https://drive.google.com/uc?export=view&id=1pIg5rkqTl6G3Xbc0eVi5pzCZGd3-mJ6w",
           "https://drive.google.com/uc?export=view&id=1wd4AVonSlp6NKNm1QKRX99wG_9iVJV-Q"
+        ]
+      }
+    },
+    "4": {
+      "title": "Kobeni Special 1",
+      "volume": "",
+      "last_updated": "1685373040",
+      "groups": {
+        "Specials": [
+          "https://drive.google.com/uc?export=view&id=1ZNrLPLaA4Sr6YLVWXotzy67r1hGiaq8b"
+        ]
+      }
+    },
+    "5": {
+      "title": "Kobeni Special 2",
+      "volume": "",
+      "last_updated": "1685374311",
+      "groups": {
+        "Specials": [
+          "https://drive.google.com/uc?export=view&id=1-Ru7dcvInvah164sdi-RVx04MqSWSp_k"
+        ]
+      }
+    },
+    "6": {
+      "title": "Aki & Himeno Special",
+      "volume": "",
+      "last_updated": "1685374528",
+      "groups": {
+        "Specials": [
+          "https://drive.google.com/uc?export=view&id=1spDPQ_Dj2gwJYk3qNMZsLQTHRGJQH3OC"
+        ]
+      }
+    },
+    "7": {
+      "title": "Denji & Power Special",
+      "volume": "",
+      "last_updated": "1685374585",
+      "groups": {
+        "Specials": [
+          "https://drive.google.com/uc?export=view&id=1AWXArxML-wBL97e6B9bDqDwiIbNuE_F7",
+          "https://drive.google.com/uc?export=view&id=1wqcWH3MkHeZzeYiimvC6p9XnhDYwAjr7"
         ]
       }
     }
