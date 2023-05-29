@@ -1,13 +1,13 @@
 {
   "title": "Chainsaw Man Part 1 - Extras/Specials",
-  "description": "A buncha official extra chapters all in one place",
+  "description": "A buncha official extras, all in one place",
   "artist": "Tatsuki Fujimoto",
   "author": "Tatsuki Fujimoto",
   "cover": "https://upload.wikimedia.org/wikipedia/en/2/24/Chainsawman.jpg",
   "chapters": {
     "1": {
       "title": "Volume 1",
-      "volume": "1",
+      "volume": "",
       "last_updated": "1685372264",
       "groups": {
         "Volume Extras (Official translation)": [
@@ -17,7 +17,7 @@
     },
     "2": {
       "title": "Volume 2",
-      "volume": "1",
+      "volume": "",
       "last_updated": "1685372370",
       "groups": {
         "Volume Extras (Official translation)": [
@@ -28,7 +28,7 @@
     },
     "3": {
       "title": "Volume 3",
-      "volume": "1",
+      "volume": "",
       "last_updated": "1685372464",
       "groups": {
         "Volume Extras (Official translation)": [
@@ -45,7 +45,7 @@
       "volume": "",
       "last_updated": "1685373040",
       "groups": {
-        "Specials": [
+        "Specials (Fan translation)": [
           "https://drive.google.com/uc?export=view&id=1ZNrLPLaA4Sr6YLVWXotzy67r1hGiaq8b"
         ]
       }
@@ -55,7 +55,7 @@
       "volume": "",
       "last_updated": "1685374311",
       "groups": {
-        "Specials": [
+        "Specials (Fan translation)": [
           "https://drive.google.com/uc?export=view&id=1-Ru7dcvInvah164sdi-RVx04MqSWSp_k"
         ]
       }
@@ -65,7 +65,7 @@
       "volume": "",
       "last_updated": "1685374528",
       "groups": {
-        "Specials": [
+        "Specials (Fan translation)": [
           "https://drive.google.com/uc?export=view&id=1spDPQ_Dj2gwJYk3qNMZsLQTHRGJQH3OC"
         ]
       }
@@ -75,7 +75,7 @@
       "volume": "",
       "last_updated": "1685374585",
       "groups": {
-        "Specials": [
+        "Specials (Fan translation)": [
           "https://drive.google.com/uc?export=view&id=1AWXArxML-wBL97e6B9bDqDwiIbNuE_F7",
           "https://drive.google.com/uc?export=view&id=1wqcWH3MkHeZzeYiimvC6p9XnhDYwAjr7"
         ]
