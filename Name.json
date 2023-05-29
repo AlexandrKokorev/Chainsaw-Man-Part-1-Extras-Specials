@@ -4,5 +4,16 @@
   "artist": "Tatsuki Fujimoto",
   "author": "Tatsuki Fujimoto",
   "cover": "https://upload.wikimedia.org/wikipedia/en/2/24/Chainsawman.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Volume 1 Extra",
+      "volume": "",
+      "last_updated": "1685372264",
+      "groups": {
+        "": [
+          "https://drive.google.com/file/d/14shHsZqJEY7FdvsugsjknzkuGH3-4BId/view?usp=share_link"
+        ]
+      }
+    }
+  }
 }
